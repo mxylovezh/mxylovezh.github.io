@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jane - A super concise theme for Hugo</title>
+    <title>梦博客</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Jane - A super concise theme for Hugo</description>
+    <description>Recent content on 梦博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 30 Aug 2019 14:00:46 +0800</lastBuildDate>
