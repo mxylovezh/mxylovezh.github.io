@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>梦博客</title>
@@ -6,103 +6,10 @@
     <description>Recent content on 梦博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 30 Aug 2019 14:00:46 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 09:25:46 +0800</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Markdown基础语法</title>
-      <link>http://localhost:1313/post/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link>
-      <pubDate>Fri, 30 Aug 2019 14:00:46 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid>
-      
-        <description>
-
-&lt;h1 id=&#34;介绍一下-markdown-语法&#34;&gt;介绍一下 Markdown 语法&lt;/h1&gt;
-
-&lt;h2 id=&#34;标题&#34;&gt;标题&lt;/h2&gt;
-
-&lt;p&gt;“#”      一级标题
-“##”     二级标题
-“###”    三级标题&lt;/p&gt;
-
-&lt;p&gt;以此类推一共有六级标题&lt;/p&gt;
-
-&lt;h2 id=&#34;无序列表&#34;&gt;无序列表&lt;/h2&gt;
-
-&lt;p&gt;-/+/* + 空格 + 内容&lt;/p&gt;
-
-&lt;p&gt;依次回车就可以生成无序列表&lt;/p&gt;
-
-&lt;p&gt;使用 Tab 键可以生成下一层的无序列表，Ctrl + [ 可以退出当前层的无序列表，回到上一层&lt;/p&gt;
-
-&lt;p&gt;例如
-- 我是第一层的无序列表
-  - 我是第二层的无序列表
-    - 我是第三层的无序列表&lt;/p&gt;
-
-&lt;h2 id=&#34;有序列表&#34;&gt;有序列表&lt;/h2&gt;
-
-&lt;p&gt;单个序号 + . + 空格 + 内容&lt;/p&gt;
-
-&lt;p&gt;与无序列表同理&lt;/p&gt;
-
-&lt;p&gt;例如
-1. 我是第一层有序列表
-   1. 我是第二层有序列表
-      1. 我是第三层有序列表&lt;/p&gt;
-
-&lt;h2 id=&#34;代码段&#34;&gt;代码段&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-+&#34;&gt;
-以 ~~~/``` 开头结尾就可以生成一段代码
-
-例如
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;javascript
-console.log(&amp;lsquo;我是代码段&amp;rsquo;);
-~~~&lt;/p&gt;
-
-&lt;h2 id=&#34;添加链接&#34;&gt;添加链接&lt;/h2&gt;
-
-&lt;p&gt;[输入的内容] + (网址)&lt;/p&gt;
-
-&lt;p&gt;前面一个方括号，后面一个小括号&lt;/p&gt;
-
-&lt;p&gt;例如
-&lt;a href=&#34;github.com/mxylovezh&#34;&gt;我的 GitHub 网址&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;添加图片&#34;&gt;添加图片&lt;/h2&gt;
-
-&lt;p&gt;! + [输入的内容] + (图片地址)&lt;/p&gt;
-
-&lt;p&gt;这个和链接的用法一样，只不过前面多加一个感叹号&lt;/p&gt;
-
-&lt;p&gt;例如
-&lt;img src=&#34;https://timgsa.baidu.com/timg?image&amp;amp;quality=80&amp;amp;size=b9999_10000&amp;amp;sec=1567149599724&amp;amp;di=de99a346fcf0f4cddd7a640fb77c307b&amp;amp;imgtype=0&amp;amp;src=http%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_jpg%2FjwPPrfORf3hgQEZArh90SFJiaB7ebNFrQmLicGxYHWg4YEcs6OtI7lPdeE3oiaNuAvibrsnVEFtEAoIDeWNMHNibkjg%2F0%3Fwx_fmt%3Djpeg&#34; alt=&#34;Pink Floyd&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;斜体和粗体&#34;&gt;斜体和粗体&lt;/h2&gt;
-
-&lt;p&gt;斜体是一个 * 或者 _ 包围内容&lt;/p&gt;
-
-&lt;p&gt;粗体是两个 ** 或者 __ 包围内容&lt;/p&gt;
-
-&lt;p&gt;例如&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;我是斜体&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;我是粗体&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Markdown 是一款非常方便的标记语言，可以在敲代码的时候或者工作的时候随时做笔记，因为它的语法和 html 是一个性质的，推荐大家使用 Markdown 来记录笔记。&lt;/p&gt;
-
-&lt;p&gt;这里还推荐一款好用的 Markdown 编辑器 &lt;a href=&#34;https://typora.io/&#34;&gt;Typora&lt;/a&gt;
-具体教程上面都有写到，大家可以参考使用。&lt;/p&gt;
-</description>
-      
-    </item>
     
     <item>
       <title>开博大吉</title>
@@ -110,10 +17,7 @@ console.log(&amp;lsquo;我是代码段&amp;rsquo;);
       <pubDate>Fri, 30 Aug 2019 09:25:46 +0800</pubDate>
       
       <guid>http://localhost:1313/post/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
-      
-        <description>&lt;p&gt;大家好，我的第一篇博客开通了，欢迎大家访问&lt;/p&gt;
-</description>
-      
+      <description>大家好，我的第一篇博客开通了，欢迎大家访问</description>
     </item>
     
     <item>
@@ -122,10 +26,29 @@ console.log(&amp;lsquo;我是代码段&amp;rsquo;);
       <pubDate>Fri, 30 Aug 2019 09:25:46 +0800</pubDate>
       
       <guid>http://localhost:1313/post/%E9%97%AE%E5%80%99%E5%BC%A0%E5%AE%9D%E8%B4%9D/</guid>
+      <description>亲爱的张航，欢迎作为第一人访问我的博客，祝你越来越漂亮，开学快乐，健健康康。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/post/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-        <description>&lt;p&gt;亲爱的张航，欢迎作为第一人访问我的博客，祝你越来越漂亮，开学快乐，健健康康。&lt;/p&gt;
-</description>
-      
+      <guid>http://localhost:1313/post/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid>
+      <description>介绍一下 Markdown 语法 标题 “#” 一级标题 “##” 二级标题 “###” 三级标题
+以此类推一共有六级标题
+无序列表 -/+/* + 空格 + 内容
+依次回车就可以生成无序列表
+使用 Tab 键可以生成下一层的无序列表，Ctrl + [ 可以退出当前层的无序列表，回到上一层
+例如 - 我是第一层的无序列表 - 我是第二层的无序列表 - 我是第三层的无序列表
+有序列表 单个序号 + . + 空格 + 内容
+与无序列表同理
+例如 1. 我是第一层有序列表 1. 我是第二层有序列表 1. 我是第三层有序列表
+代码段 以 ~~~/``` 开头结尾就可以生成一段代码 例如  javascript console.log(&amp;lsquo;我是代码段&amp;rsquo;); ~~~
+添加链接 [输入的内容] + (网址)
+前面一个方括号，后面一个小括号
+例如 我的 GitHub 网址
+添加图片 ! + [输入的内容] + (图片地址)</description>
     </item>
     
   </channel>
