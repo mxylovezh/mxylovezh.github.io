@@ -3,48 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://www.flysnow.org/about/</loc>
+    <lastmod>2019-12-23T00:13:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.flysnow.org/</loc>
+    <lastmod>2019-12-23T00:13:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.flysnow.org/post/</loc>
     <lastmod>2019-08-30T09:25:46+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</loc>
+    <loc>https://www.flysnow.org/post/Markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</loc>
     <lastmod>2019-08-30T09:25:46+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/%E9%97%AE%E5%80%99%E5%BC%A0%E5%AE%9D%E8%B4%9D/</loc>
+    <loc>https://www.flysnow.org/post/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</loc>
     <lastmod>2019-08-30T09:25:46+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.flysnow.org/post/%E9%97%AE%E5%80%99%E5%BC%A0%E5%AE%9D%E8%B4%9D/</loc>
     <lastmod>2019-08-30T09:25:46+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</loc>
-    <priority>0</priority>
+    <loc>https://www.flysnow.org/categories/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://www.flysnow.org/tags/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://www.flysnow.org/tools/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.flysnow.org/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.flysnow.org/search/</loc>
   </url>
   
 </urlset>
